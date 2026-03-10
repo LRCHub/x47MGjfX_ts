@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心拍音 (DJ DAISHIZEN Presents 三浦大知 NON STOP DJ MIX Vol.3)",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-10T11:09:58.846559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心拍音",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_心拍音_三浦_大知.txt"
+    }
+  ]
+}
